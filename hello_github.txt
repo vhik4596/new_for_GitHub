@@ -3,6 +3,6 @@
 int main(void)
 {
 	std::cout << "Hello Github!\n";
-	std::cout << "Don't change!\n";
+	std::cout << "Change!\n";
 	return 0;
 }
